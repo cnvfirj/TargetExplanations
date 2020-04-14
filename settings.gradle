@@ -1,0 +1,3 @@
+rootProject.name='TargetExplanations'
+include ':app'
+include ':viewtargetexplanations'
